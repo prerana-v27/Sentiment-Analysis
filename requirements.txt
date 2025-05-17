@@ -3,5 +3,5 @@ pandas
 numpy
 matplotlib
 seaborn
-torch==2.0.1  # Adjust the version as per your system
+torch==2.7.1  # Adjust the version as per your system
 transformers
