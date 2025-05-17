@@ -28,7 +28,7 @@ This project is a Sentiment Analysis application that uses Natural Language Proc
 ## Dataset
 
 The dataset used in this project is the IMDB Movie Reviews dataset from Kaggle.
-Kaggle IMDB Dataset Link
+Kaggle IMDB Dataset Link: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 ## Setup Instructions
 
