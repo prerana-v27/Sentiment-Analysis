@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+torch==2.0.1  # Adjust the version as per your system
+transformers
