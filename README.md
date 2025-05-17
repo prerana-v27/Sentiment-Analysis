@@ -25,6 +25,11 @@ This project is a Sentiment Analysis application that uses Natural Language Proc
 * Pandas, NumPy
 * Matplotlib, Seaborn
 
+## Dataset
+
+The dataset used in this project is the IMDB Movie Reviews dataset from Kaggle.
+Kaggle IMDB Dataset Link
+
 ## Setup Instructions
 
 1. **Clone the Repository:**
